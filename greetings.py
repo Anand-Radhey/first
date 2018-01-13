@@ -1,1 +1,3 @@
-print "Hello"
+print "Good Morning"
+
+print "Good Evening"
